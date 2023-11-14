@@ -1,0 +1,125 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0px;
+}
+
+.header {
+  text-shadow: 1px 1px black;
+  text-align: center;
+  color: paleturquoise;
+  margin: 0px;
+  background-color: lightpink;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.product-container p {
+  color: turquoise;
+  margin: 15px;
+}
+
+.product-container table {
+  border-collapse: collapse;
+  border: 2px solid mediumvioletred;
+}
+
+.product-container th {
+  background-color: lightpink;
+  color: mediumblue;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-collapse: collapse;
+  border: 2px solid mediumvioletred;
+}
+
+.product-container td {
+  text-align: center;
+  border-collapse: collapse;
+  border: 2px solid mediumvioletred;
+}
+
+.product-container img {
+  width: 100px;
+  height: 100px;
+}
+
+nav ul {
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+  margin: 8px
+}
+
+nav a {
+  color: mediumturquoise;
+}
+
+.img-article {
+  background: url("./img/wardrobe.jpg");
+  height: 500px;
+  width: 600px;
+  background-size: cover;
+}
+
+footer {
+  text-align: center;
+  font-size: 10px;
+}
+
+.img-article h1 {
+  color: paleturquoise;
+  margin: 5px;
+}
+
+.img-article div {
+  color: mistyrose;
+  background-color: lightblue;
+  padding: .25em;
+  margin: 1em 2em;
+  width: 12em;
+}
+
+#shirts {
+  background-color: mediumpurple;
+}
+
+#jackets {
+  background-color: palevioletred;
+}
+
+#pants {
+  background-color: mediumpurple;
+}
+
+#shorts {
+  background-color: palevioletred;
+}
+
+.home-main h2 {
+  background-color: lightpink;
+  color: paleturquoise;
+}
+
+.home-main p {
+  background-color: lightblue;
+  margin: 15px;
+  color: mediumvioletred;
+}
+
+.img-about {
+  text-align: center;
+}
+
+.about-container p {
+  margin: 20px;
+}
+
+.about-list ul {
+  list-style-type: upper-roman;
+}
