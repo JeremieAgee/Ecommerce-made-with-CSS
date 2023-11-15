@@ -119,9 +119,8 @@ footer {
 .about-container p {
   margin: 20px;
 }
-
-.about-list ul {
-  list-style-type: upper-roman;
+.about-list ul{
+  list-style-type: none;
 }
 button{
   background-color:mediumturquoise;
