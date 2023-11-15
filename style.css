@@ -123,3 +123,6 @@ footer {
 .about-list ul {
   list-style-type: upper-roman;
 }
+button{
+  background-color:mediumturquoise;
+}
